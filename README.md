@@ -1,4 +1,3 @@
-# CasePilot-AI-Service-Copilot-for-Salesforce-Service-Cloud
 
 # CasePilot — AI Service Copilot for Salesforce Service Cloud
 
